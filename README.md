@@ -24,7 +24,7 @@ cd RPS-C-
   ```
 - With Clang:
   ```
-  clang++ -o RPS RPS.cpp
+  clang++ -o RPS.exe RPS.cpp
   ```
 
 ### 3. Run the executable:
