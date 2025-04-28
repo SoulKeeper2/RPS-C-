@@ -20,7 +20,7 @@ cd RPS-C-
 
 - With GCC:
   ```
-  g++ -o RPS RPS.cpp
+  g++ -o RPS.exe RPS.cpp
   ```
 - With Clang:
   ```
