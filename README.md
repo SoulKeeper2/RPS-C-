@@ -29,7 +29,7 @@ cd RPS-C-
 
 ### 3. Run the executable:
 ```
-RPS
+./RPS
 ```
 ## Usage
 
